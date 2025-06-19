@@ -42,6 +42,6 @@ Control your PC using hand gestures and a regular webcam. This project uses comp
 1. Clone this repo:
 
 ```bash
-git clone https://github.com/yourusername/gesture-controlled-pc.git
+git clone https://github.com/srijai5/gesture-controlled-pc.git
 cd gesture-controlled-pc
 ```
